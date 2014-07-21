@@ -1,0 +1,10 @@
+{
+  "name": "generator-n3r-angular",
+  "version": "0.1.0",
+  "description": "angular js base generator",
+  "keywords": ["yeoman-generator", "n3r-angular"],
+  "author":{"name":"shuwei", "email":"shuvigoss@gmail.com", "url":"https://github.com/shuvigoss"},
+  "dependencies": {
+    "yeoman-generator": "^0.16.0"
+  }
+}
