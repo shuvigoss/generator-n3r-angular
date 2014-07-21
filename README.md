@@ -8,6 +8,7 @@ N3 angular yeoman generator
 =====================
     我已将该模块提交到npm registry 
 [查看](https://registry.npmjs.org/generator-n3r-angular)<br />
+> 通过node 安装 （建议全局安装）<br />
 
     npm install generator-n3r-angular -g
 > 创建一个文件夹，随意地方<br />
